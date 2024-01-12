@@ -1,9 +1,9 @@
+<img src="Public/admin.png" width="50px">
 ## Hello there 🙋🏾‍♂️
-<img src="Public/admin.png" width="50px"> I'm a Ui & UX Designer from Malindi, Kenya.<br/>
+I'm a Ui & UX Designer from Malindi, Kenya.<br/>
 I follow the paths of creativity in designing digiital experiences and i'm passionate in making design systems for startups.
 
 ## Professional Tools
-
 | Designing         | Front-End    | Photo Editing   | Video Editing      |
 | :---------------- | :----------- | :-------------- | :----------------- |
 | Figma             | Html5 & CSS3 | Adobe Photoshop | Adobe Priemere pro |
@@ -13,8 +13,7 @@ I follow the paths of creativity in designing digiital experiences and i'm passi
 
 [LUNA]: https://lunafrica.com
 currently working some of my time at [LUNA]<br/>
-I’m ready to collaborate on any Figma Design or Front-end issue 
-
+I’m ready to collaborate on any Figma Design or Front-end issue<br/>
 **To reach Me Mail:**
 ```
 julius@brightons.site
