@@ -19,7 +19,6 @@ I’m ready to collaborate on any Figma Design or Front-end issue
 ```
 julius@brightons.site
 ```
-or
 ```
 brighton@lunahealth.co
 ```
