@@ -1,16 +1,33 @@
-### Hi there 👋
+### Hello there 🙋🏾‍♂️
 
-<!--
-**brighton404/brighton404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Ui & UX Designer from Malindi, Kenya. I follow the paths of creativity in designing digiital experiences and i'm passionate in making design systems for startups.
 
-Here are some ideas to get you started:
+**Professional Tools**
+Designing
+ - Figma
+ - Adobe XD
+ - Adobe Illustrator
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Front-End writing
+ - Html5 & css3
+ - Javascript
+ - React
+ - Typescript
+
+Photo Editing
+ - Adobe Photoshop
+ - Adobe Lightroom
+
+Video Editing
+ - Adobe Premiere pro
+ - Davinci Resolve
+
+**Projects**
+1. LUNA  [https://www.lunafrica.com]
+
+[https://julius.brightons.site]
+
+
+currently working some of my time at LUNA [www.lunafrica.com]
+I’m ready to collaborate on any Figma Design or Front-end issue
+How to reach me: Mail: [julius@brightons.site]
