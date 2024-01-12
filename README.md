@@ -17,5 +17,9 @@ I’m ready to collaborate on any Figma Design or Front-end issue
 
 **To reach Me Mail:**
 ```
-[julius@brightons.site]
+julius@brightons.site
+```
+or
+```
+brighton@lunahealth.co
 ```
