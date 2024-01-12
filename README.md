@@ -11,6 +11,4 @@ I'm a Ui & UX Designer from Malindi, Kenya. I follow the paths of creativity in 
 currently working some of my time at LUNA [www.lunafrica.com] 
 
 I’m ready to collaborate on any Figma Design or Front-end issue
-
-` How to reach me: Mail: [julius@brightons.site]
-` 
+To reach Me `Mail: [julius@brightons.site]`
