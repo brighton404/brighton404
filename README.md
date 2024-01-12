@@ -18,7 +18,7 @@ Here are some professional tools that i use on regular based on the project at h
 | Adobe Illustrator | React        | Gimp            | capcut             |
 | Adobe Indesign    | Typescript   |                 |                    |
 
-**To reach Me Mail:**
+## To reach Me Mail:
 ```
 julius@brightons.site
 ```
