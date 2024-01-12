@@ -9,7 +9,7 @@ currently working some of my time at [LUNA]<br/>
 I’m ready to collaborate on any Figma Design or Front-end issue<br/>
 
 ## Professional Tools
-| Designing         | Front-End    | Photo Editing   | Video Editing      |
+| **Designing**     | Front-End    | Photo Editing   | Video Editing      |
 | :---------------- | :----------- | :-------------- | :----------------- |
 | Figma             | Html5 & CSS3 | Adobe Photoshop | Adobe Priemere pro |
 | Adobe XD          | Javascript   | Adobe Lightroom | Davinci Resolve    |
