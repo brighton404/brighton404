@@ -9,6 +9,8 @@ currently working some of my time at [LUNA]<br/>
 I’m ready to collaborate on any Figma Design or Front-end issue<br/>
 
 ## Professional Tools
+Here are some professional tools that i use on regular based on the project at hand.
+
 | Designing         | Front-End    | Photo Editing   | Video Editing      |
 | :---------------- | :----------- | :-------------- | :----------------- |
 | Figma             | Html5 & CSS3 | Adobe Photoshop | Adobe Priemere pro |
