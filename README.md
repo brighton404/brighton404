@@ -9,5 +9,7 @@ I'm a Ui & UX Designer from Malindi, Kenya. I follow the paths of creativity in 
 - *Video Editing*: Adobe Premiere pro, Davinci Resolve
 
 ` currently working some of my time at LUNA [www.lunafrica.com]
+
 ` I’m ready to collaborate on any Figma Design or Front-end issue
+
 ` How to reach me: Mail: [julius@brightons.site]
