@@ -23,4 +23,4 @@ julius@brightons.site
 ```
 brighton@lunahealth.co
 ```
-<a href="https://julius.brightons.site"><img src="Public/admin.png" width="50px"><a/>
+<a href="https://julius.brightons.site"><img src="Public/admin.png" width="50px"><a/><a href="https://brightons.site"><img src="Public" width="50px"><a/>
