@@ -12,4 +12,4 @@ currently working some of my time at LUNA [www.lunafrica.com]
 
 I’m ready to collaborate on any Figma Design or Front-end issue
 
-To reach Me **Mail:** `[julius@brightons.site]`
+**To reach Me Mail:** `[julius@brightons.site]`
