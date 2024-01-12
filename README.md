@@ -12,6 +12,7 @@ I follow the paths of creativity in designing digiital experiences and i'm passi
 | Adobe Illustrator | React        | Gimp            | capcut             |
 | Adobe Indesign    | Typescript   |                 |                    |
 
+[LUNA]: https://lunafrica.com
 currently working some of my time at [LUNA]: (https://www.lunafrica.com)<br/>
 I’m ready to collaborate on any Figma Design or Front-end issue 
 
