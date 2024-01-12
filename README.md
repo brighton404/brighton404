@@ -1,5 +1,3 @@
-<img src="Public/admin.png" width="50px">
-
 ## Hello there 🙋🏾‍♂️
 
 I'm a Ui & UX Designer from Malindi, Kenya. I follow the paths of creativity in designing digiital experiences and i'm passionate in making design systems for startups.
@@ -25,3 +23,4 @@ julius@brightons.site
 ```
 brighton@lunahealth.co
 ```
+<a href="https://julius.brightons.site"><img src="Public/admin.png" width="50px"><a/>
