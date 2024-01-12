@@ -1,5 +1,5 @@
 ## Hello there 🙋🏾‍♂️
-<img src="Public/admin.png" width="50px"> I'm a Ui & UX Designer from Malindi, Kenya.
+<img src="Public/admin.png" width="50px"> I'm a Ui & UX Designer from Malindi, Kenya.<br/>
 I follow the paths of creativity in designing digiital experiences and i'm passionate in making design systems for startups.
 
 ## Professional Tools
