@@ -3,6 +3,9 @@
 ## Hello there 🙋🏾‍♂️
 
 I'm a Ui & UX Designer from Malindi, Kenya. I follow the paths of creativity in designing digiital experiences and i'm passionate in making design systems for startups.
+[LUNA]: https://lunafrica.com
+currently working some of my time at [LUNA]<br/>
+I’m ready to collaborate on any Figma Design or Front-end issue<br/>
 
 ## Professional Tools
 | Designing         | Front-End    | Photo Editing   | Video Editing      |
@@ -12,9 +15,6 @@ I'm a Ui & UX Designer from Malindi, Kenya. I follow the paths of creativity in 
 | Adobe Illustrator | React        | Gimp            | capcut             |
 | Adobe Indesign    | Typescript   |                 |                    |
 
-[LUNA]: https://lunafrica.com
-currently working some of my time at [LUNA]<br/>
-I’m ready to collaborate on any Figma Design or Front-end issue<br/>
 **To reach Me Mail:**
 ```
 julius@brightons.site
