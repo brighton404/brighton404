@@ -1,12 +1,20 @@
 # Hello there 🙋🏾‍♂️
 
-I'm a Ui & UX Designer from Malindi, Kenya. I follow the paths of creativity in designing digiital experiences and i'm passionate in making design systems for startups.
+I'm a Ui & UX Designer from Malindi, Kenya.
+I follow the paths of creativity in designing digiital experiences and i'm passionate in making design systems for startups.
 
 # Professional Tools
 - *Designing*: Figma , Adobe XD, Adobe Illustrator
 - *Front-End writing*: Html5 & css3, Javascript, React, Typescript
 - *Photo Editing*: Adobe Photoshop, Adobe Lightroom
 - *Video Editing*: Adobe Premiere pro, Davinci Resolve
+
+| Designing        | Front-End    | Photo Editing   | Video Editing      |
+| :--------------- | :----------- | :-------------- | :----------------- |
+| Figma            | Html5 & CSS3 | Adobe Photoshop | Adobe Priemere pro |
+| Adobe XD         | Javascript   | Adobe Lightroom | Davinci Resolve    |
+| Adobe Illutrator | React        |                 |                    |
+|                  | Typescript   |                 |                    |
 
 currently working some of my time at LUNA [www.lunafrica.com] 
 
