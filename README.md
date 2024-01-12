@@ -3,6 +3,7 @@
 ## Hello there 🙋🏾‍♂️
 
 I'm a Ui & UX Designer from Malindi, Kenya. I follow the paths of creativity in designing digiital experiences and i'm passionate in making design systems for startups.
+
 [LUNA]: https://lunafrica.com
 currently working some of my time at [LUNA]<br/>
 I’m ready to collaborate on any Figma Design or Front-end issue<br/>
