@@ -26,5 +26,4 @@ brighton@lunahealth.co
 <a href="https://julius.brightons.site"><img src="Public/admin.png" width="50px"><a/>
 <a href="https://brightons.site"><img src="Public/LOGO.png" width="47.5px"><a/>
 
-<a type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="thejomviking" data-color="#ffffff" data-emoji="☕"  data-font="Lato" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#FFDD00" >☕<a/>
-
+<p><a href="https://www.buymeacoffee.com/thejomviking"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="thejomviking" /></a></p><
