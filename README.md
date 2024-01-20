@@ -4,7 +4,7 @@ I'm a UI & UX Designer.
 On october 2023 i gained an interest in making what i design thus here i am writing my own projects one at a time.
 
 [LUNA]: https://lunafrica.com
-As a designer currently working some of my time at [LUNA] but I’m always ready to collaborate ot hop on any project<br/>
+Currently working some of my time at [LUNA] but I’m always ready to collaborate ot hop on any project<br/>
 
 ## Professional Tools
 Here are some professional tools that i use on a regular basis depending on the task at hand.
