@@ -1,6 +1,6 @@
 ## Hello there 🙋🏾‍♂️
 
-I'm a UI & UX Designer.
+I'm a UI Designer. <br/>
 On october 2023 i gained an interest in making what i design thus here i am writing my own projects one at a time.
 
 [LUNA]: https://lunafrica.com
