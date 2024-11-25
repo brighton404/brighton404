@@ -9,12 +9,14 @@ Currently working some of my time at [LUNA] but I’m always ready to collaborat
 ## Professional Tools
 Here are some professional tools that i use on a regular basis depending on the task at hand.
 
-| Designing | Front-End | Photo Editing | Video Editing | Presentation |
-| :-----------| :----------- | :-------------- | :----------------- | :----------------- |
-| Figma | Html5 & CSS3 | Adobe Photoshop | Adobe Priemere pro | Protopie |
-| Adobe XD | Javascript | Adobe Lightroom | Davinci Resolve | Figma |
-| Adobe Illustrator | Typescript | Gimp | capcut | |
-| Adobe Indesign |  | | | |
+| Designing | Front-End | Photo Editing |
+| :-----------| :----------- | :-------------- |
+| Figma | Html5 & CSS3 | Adobe Photoshop | 
+| Adobe XD | Javascript | Adobe Lightroom | 
+| Adobe Illustrator | Typescript | Gimp | 
+| Adobe Indesign | React | | 
+| | TailwindCss | |
+| | BootStrap | | 
 
 ## To reach Me, Mail me at:
 ```
