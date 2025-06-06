@@ -16,6 +16,6 @@ Here are some professional tools that i use on a regular basis depending on the 
 | | BootStrap | | 
 
 ## Reach Me via
-```
-patreon.com/jomviking
+```patreon
+https://www.patreon.com/jomviking
 ```
